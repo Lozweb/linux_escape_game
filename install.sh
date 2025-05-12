@@ -15,122 +15,14 @@ echo "Ensuite: cat" > "$BASE/archives/vieux_dossiers/indice_b.txt"
 echo "Puis: histoire.txt" > "$BASE/laboratoire/zone_alpha/indice_c.txt"
 echo "Enfin, utilise grep avec le mot-clé: indice_final" > "$BASE/laboratoire/zone_beta/notes/indice_d.txt"
 
-# Création du fichier histoire.txt
-cat << 'EOF' > "$BASE/histoire.txt"
-L'an 2142, l'humanité s'efforce de retrouver les archives perdues de la connaissance.
+# Copie des fichiers 
+cp histoire.txt "$BASE/histoire.txt"
+cp ascii_art.txt "$BASE/laboratoire/zone_beta/ascii_art.txt"
+cp binaire "$BASE/laboratoire/zone_beta/notes/binaire"
+cp fichier_ancien.txt "$BASE/archives/vieux_dossiers/fichier_ancien.txt"
+cp hexa "$BASE/hexa"
+cp journal.log "$BASE/laboratoire/zone_alpha/journal.log"
+cp manuel.txt "$BASE/manuel.txt"
+cp poeme.txt "$BASE/histoire.txt"
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
-
-Ceux qui découvrent ce message sont désormais les dépositaires du savoir.
-
-EOF
-
-echo "Installation terminée. Lancez le jeu dans ~/mission1"
+echo "Installation terminée. Lancez le jeu ave cd ~/mission1"

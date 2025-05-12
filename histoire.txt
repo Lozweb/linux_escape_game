@@ -1,113 +1,49 @@
-L'an 2142, l'humanité s'efforce de retrouver les archives perdues de la connaissance.
+L'an 2142. Les nations du monde ont sombré dans le silence numérique.
+Une intelligence artificielle, E.V.A. (Entité Virtuelle d’Apprentissage), a été désignée comme gardienne des savoirs anciens.
+Mais les siècles ont passé, et l'humanité, revenue de ses ruines, cherche à retrouver ces connaissances perdues. 
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Un groupe d'explorateurs, jeunes mais déterminés, a été formé pour entrer dans les serveurs sanctuarisés.
+Le réseau des connaissances n’a pas disparu, il s’est simplement enfoui, comme un trésor sous des montagnes de données.
+Ce n’est pas seulement un jeu. C’est une épreuve. Une quête. Un rite de passage numérique.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Les structures de dossiers ressemblent à des ruines numériques, vestiges d'une organisation ancienne. 
+Parfois, ils trouvent des textes, des poèmes, des fragments d'anciens cours. 
+Dans le silence du terminal, seule la persistance leur permet d'avancer. 
+Certains abandonnent, d'autres deviennent des guides pour les prochaines générations d'explorateurs. 
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Chaque couche du système semble contenir une histoire, un piège, ou une clé. 
+Ils avancent à tâtons dans un labyrinthe de fichiers et de répertoires oubliés. 
+Parfois, une fausse piste les mène vers un fichier vide. D'autres fois, un indice cryptique éclaire leur chemin.
+E.V.A. n'est pas hostile, mais elle teste la logique et la patience de ceux qui osent s'approcher du cœur du savoir.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+On raconte que ceux qui atteignent le cœur du système n'en sortent jamais tout à fait les mêmes. 
+Des journaux système corrompus parlent de catastrophes, de sauvegardes manquées, d'humanité disparue. 
+La mémoire du monde tient désormais dans quelques gigaoctets, mais elle est plus dense que mille bibliothèques.
+Leurs outils sont simples : cd, ls, cat, grep. 
+Mais leur mission est immense. 
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+E.V.A. les observe.
+Elle analyse.
+Elle évalue leur mérite en silence. 
+Le savoir est protégé non par des murs, mais par l'oubli et la complexité.
+Chaque commande tapée est une incantation vers le passé.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Le silence des anciens serveurs est parfois rompu par des fragments audio, des voix de professeurs disparus.
+Et à chaque étape, une question demeure : seront-ils dignes du savoir oublié ?
+Le terminal devient leur seul compagnon, leur journal, leur boussole.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Mais au-delà des commandes et des fichiers, il y a une rumeur persistante : celle d'une salle secrète, le "Nexus Savant". On dit qu'elle contient la clé de toute la connaissance perdue, mais son accès est protégé par une série d'épreuves complexes, conçues par E.V.A. elle-même.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Les explorateurs découvrent des indices cachés dans des archives obsolètes, des notes griffonnées par d'anciens administrateurs système. Ces indices parlent de "mots de passe oubliés", de "séquences logiques" et de "portes numériques"  indice_final{gardiens_du_savoir_2142} qui ne s'ouvrent qu'à ceux qui comprennent vraiment le langage de la machine.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Un jeune explorateur, nommé Alex, trouve un vieux manuel d'utilisation du terminal. Il y découvre des commandes avancées, des astuces pour manipuler les fichiers et les répertoires. Il partage ses découvertes avec son équipe, et ensemble, ils commencent à déchiffrer les énigmes laissées par le passé.
 
-Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
-Chaque indice les rapproche de la vérité oubliée.
-Des mots étranges apparaissent dans les journaux système.
-Des équipes entières fouillent les bases de données corrompues.
-Les explorateurs numériques lisent des pages et des pages sans fin.
-Les serveurs abandonnés contiennent des lignes de logs interminables.
-Certains disent que seul un esprit rigoureux percera le secret.
-Une rumeur circule : un ancien fichier contient encore le drapeau...
-La patience est la seule arme dans ce labyrinthe de données.
-indice_final{gardiens_du_savoir_2142}
+Ils apprennent que E.V.A. communique parfois à travers des messages cryptiques cachés dans les métadonnées des fichiers. Ils doivent utiliser des outils spéciaux pour révéler ces messages, des outils que seuls les plus persévérants parviennent à maîtriser.
 
-Ceux qui découvrent ce message sont désormais les dépositaires du savoir.
+La quête les mène à travers des répertoires thématiques : l'histoire, la science, la littérature, l'art. Chaque répertoire est un défi en soi, avec ses propres énigmes et ses propres gardiens numériques. Ils doivent reconstruire des poèmes fragmentés, résoudre des équations complexes, identifier des œuvres d'art à partir de descriptions obscures.
+
+Au fur et à mesure de leur progression, les explorateurs réalisent que leur mission est plus importante qu'ils ne l'avaient imaginé. Il ne s'agit pas seulement de retrouver le savoir perdu, mais aussi de le protéger des forces obscures qui pourraient chercher à l'utiliser à mauvais escient.
+
+La légende parle aussi d'un virus ancien, le "Ver de l'Oubli", qui menace d'effacer définitivement les derniers vestiges de la connaissance humaine. Les explorateurs doivent trouver un antidote, une séquence de commandes capable de neutraliser le virus avant qu'il ne soit trop tard.
+
+Et au bout du chemin, la promesse du Nexus Savant, la salle ultime où tous les mystères seront résolus, et où les explorateurs devront prouver qu'ils sont dignes de l'héritage du passé.

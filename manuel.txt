@@ -1,0 +1,18 @@
+AIDE AUX EXPLORATEURS DU NUMÉRIQUE
+
+cd : Change le dossier courant.
+    Exemple : cd documents  ... vous amène au dossier "documents"
+
+ls : Liste le contenu d'un dossier.
+    Peut être utilisé seul (ls) ou avec des options.
+    Essayez : ls -l  ... pour voir plus d'informations !
+
+cat : Affiche le contenu d'un fichier.
+    Très utile pour lire des messages cachés.
+    Exemple : cat secret.txt
+
+grep : Cherche du texte à l'intérieur des fichiers.
+    grep mot_cle fichier.txt  ... trouve les lignes contenant "mot_cle"
+
+... et il existe d'autres commandes, mais celles-ci suffisent pour commencer votre quête !
+Peut-être...
