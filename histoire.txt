@@ -1,22 +1,3 @@
-#!/bin/bash
-
-BASE=~/mission1
-mkdir -p "$BASE"
-
-# Création de la structure
-mkdir -p "$BASE/enigme1"
-mkdir -p "$BASE/archives/vieux_dossiers"
-mkdir -p "$BASE/laboratoire/zone_alpha"
-mkdir -p "$BASE/laboratoire/zone_beta/notes"
-
-# Création des indices
-echo "Le premier mot est: cd" > "$BASE/enigme1/indice_a.txt"
-echo "Ensuite: cat" > "$BASE/archives/vieux_dossiers/indice_b.txt"
-echo "Puis: histoire.txt" > "$BASE/laboratoire/zone_alpha/indice_c.txt"
-echo "Enfin, utilise grep avec le mot-clé: indice_final" > "$BASE/laboratoire/zone_beta/notes/indice_d.txt"
-
-# Création du fichier histoire.txt
-cat << 'EOF' > "$BASE/histoire.txt"
 L'an 2142, l'humanité s'efforce de retrouver les archives perdues de la connaissance.
 
 Mais E.V.A., l'IA gardienne, complique leur tâche avec des leurres.
@@ -130,7 +111,3 @@ La patience est la seule arme dans ce labyrinthe de données.
 indice_final{gardiens_du_savoir_2142}
 
 Ceux qui découvrent ce message sont désormais les dépositaires du savoir.
-
-EOF
-
-echo "Installation terminée. Lancez le jeu dans ~/mission1"
