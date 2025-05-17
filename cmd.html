@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commandes Linux</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #444;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        p {
+            color: #555;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            overflow-x: auto;
+            border-radius: 5px;
+        }
+        .example {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .indent {
+            margin-left: 20px;
+        }
+        .emoji {
+            font-family: 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif; /* Ensure emojis are displayed */
+        }
+    </style>
+</head>
+<body>
+
+<h1>1. <span class="emoji">📁</span> La commande <code>cd</code> sous Linux</h1>
+
+<p>La commande <code>cd</code> (abréviation de <i>change directory</i>) est l'une des commandes de base du terminal Linux.
+    Elle permet de <strong>se déplacer à travers les dossiers et sous-dossiers</strong> de votre système de fichiers.</p>
+
+<hr>
+
+<h2><span class="emoji">🛠️</span> Comment l'utiliser</h2>
+
+<p>La syntaxe générale est :</p>
+
+<pre><code>
+cd [chemin_du_repertoire]
+# [chemin_du_repertoire] : le nom du dossier où vous voulez aller.
+# Il peut être :
+#    Relatif (par rapport à votre position actuelle)
+#    Absolu (le chemin complet depuis la racine du système /)
+    </code></pre>
+
+<p><span class="emoji">📌</span> Exemples pratiques</p>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Se déplacer dans un sous-dossier</p>
+    <pre><code>
+cd documents
+# ➡️ Si vous êtes dans votre dossier personnel, cette commande vous amènera dans le dossier documents.
+        </code></pre>
+</div>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Revenir en arrière (dossier parent)</p>
+    <pre><code>
+cd ..
+# ➡️ Cette commande vous fait remonter d’un niveau dans l’arborescence.
+        </code></pre>
+</div>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Aller à un emplacement spécifique</p>
+    <pre><code>
+cd /home/utilisateur/images
+# ➡️ Ce chemin absolu vous envoie dans le dossier images de l’utilisateur utilisateur.
+        </code></pre>
+</div>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Aller dans son dossier personnel</p>
+    <pre><code>
+cd ~
+# ➡️ Le symbole ~ est un raccourci vers votre dossier personnel.
+        </code></pre>
+</div>
+
+<p><span class="emoji">🧩</span> Utilisation dans notre Escape Game</p>
+
+<p>Dans notre escape game, vous utiliserez cd pour naviguer entre les différents dossiers contenant les indices.</p>
+
+<p>Exemples :</p>
+<pre><code>
+cd ~/mission1
+
+# ➡️ Entrer dans le dossier de la première mission.
+    </code></pre>
+
+<h1>2. <span class="emoji">📂</span> La commande <code>ls</code> sous Linux</h1>
+
+<p>La commande <code>ls</code> (abréviation de <i>list</i>) est une commande de base du terminal Linux.
+    Elle permet d'<strong>afficher le contenu d'un répertoire</strong>, c'est-à-dire les fichiers <span class="emoji">📄</span> et les dossiers <span class="emoji">📁</span> qui s'y trouvent.</p>
+
+<hr>
+
+<h2><span class="emoji">🛠️</span> Comment l'utiliser</h2>
+
+<p>La syntaxe générale est :</p>
+
+<pre><code>
+ls [chemin_du_repertoire]
+# [chemin_du_repertoire] : le nom du dossier dont vous voulez voir le contenu.
+# Si vous ne mettez rien, ls affiche le contenu du dossier où vous êtes actuellement.
+    </code></pre>
+
+<p><span class="emoji">📌</span> Exemple pratique</p>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Lister le contenu du dossier courant</p>
+    <pre><code>
+ls
+# ➡️ Affiche les noms des fichiers et des dossiers dans le dossier où vous êtes.
+        </code></pre>
+</div>
+
+<p><span class="emoji">🧩</span> Utilisation dans notre Escape Game</p>
+
+<p>Vous utiliserez <code>ls</code> pour découvrir les fichiers <span class="emoji">📄</span> et les dossiers <span class="emoji">📁</span> qui contiennent des indices.</p>
+
+<hr>
+
+<h1>3. <span class="emoji">📖</span> La commande <code>cat</code> sous Linux</h1>
+
+<p>La commande <code>cat</code> permet de <strong>lire le contenu d'un fichier</strong> et de l'afficher à l'écran.</p>
+
+<hr>
+
+<h2><span class="emoji">🛠️</span> Comment l'utiliser</h2>
+
+<p>La syntaxe générale est :</p>
+
+<pre><code>
+cat [nom_du_fichier]
+# [nom_du_fichier] : le nom du fichier que vous voulez lire.
+    </code></pre>
+
+<p><span class="emoji">📌</span> Exemple pratique</p>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Afficher le contenu d'un fichier</p>
+    <pre><code>
+cat message.txt
+# ➡️ Affiche le contenu du fichier message.txt.
+        </code></pre>
+</div>
+
+<p><span class="emoji">🧩</span> Utilisation dans notre Escape Game</p>
+
+<p><code>cat</code> vous permettra de lire les indices et les messages que vous trouverez pendant votre mission.</p>
+
+<h1>4. <span class="emoji">🔍</span> La commande <code>grep</code> sous Linux</h1>
+
+<p>La commande <code>grep</code> est un outil puissant qui permet de <strong>rechercher des mots ou des motifs</strong> à l'intérieur des fichiers. Elle affiche les lignes qui contiennent ce que vous cherchez.</p>
+
+<hr>
+
+<h2><span class="emoji">🛠️</span> Comment l'utiliser</h2>
+
+<p>La syntaxe générale est :</p>
+
+<pre><code>
+grep [motif] [nom_du_fichier]
+# [motif] : le mot ou le motif que vous recherchez.
+# [nom_du_fichier] : le fichier dans lequel effectuer la recherche.
+    </code></pre>
+
+<p><span class="emoji">📌</span> Exemple pratique</p>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Rechercher un mot dans un fichier</p>
+    <pre><code>
+grep "indice" enigme.txt
+# ➡️ Affiche toutes les lignes du fichier "enigme.txt" qui contiennent le mot "indice".
+        </code></pre>
+</div>
+
+<hr>
+
+<h2><span class="emoji">🔗</span> Utilisation de <code>grep</code> avec <code>cat</code> et le pipe <code>|</code></h2>
+
+<p>On peut combiner <code>grep</code> avec <code>cat</code> et le pipe <code>|</code> pour effectuer des recherches plus avancées :</p>
+
+<pre><code>
+cat [nom_du_fichier] | grep [motif]
+    </code></pre>
+
+<ol>
+    <li><code>cat [nom_du_fichier]</code> affiche le contenu du fichier.</li>
+    <li>Le pipe <code>|</code> envoie ce contenu à la commande <code>grep</code>.</li>
+    <li><code>grep [motif]</code> recherche le motif dans le texte reçu et affiche les lignes correspondantes.</li>
+</ol>
+
+<p><span class="emoji">📌</span> Exemple pratique</p>
+
+<div class="example">
+    <p><span class="emoji">🔹</span> Trouver une information dans un long texte</p>
+    <pre><code>
+cat journal_de_bord.txt | grep "coordonnées"
+# ➡️ Affiche la ou les lignes du fichier "journal_de_bord.txt" qui contiennent le mot "coordonnées".
+        </code></pre>
+</div>
+
+<p><span class="emoji">🧩</span> Utilisation dans notre Escape Game</p>
+
+<p>Dans notre escape game, vous utiliserez <code>grep</code> pour :</p>
+
+<ul>
+    <li>Trouver des indices spécifiques cachés dans de grands fichiers texte.</li>
+    <li>Combiner des commandes pour extraire des informations importantes.</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Drapeau de la Connaissance – Escape Game Bash (CM)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #444;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        p {
+            color: #555;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            overflow-x: auto;
+            border-radius: 5px;
+        }
+        .emoji {
+            font-family: 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+<h1><span class="emoji">🧪</span> Le Drapeau de la Connaissance – Escape Game Bash (CM)</h1>
+
+<p><strong>Durée :</strong> 40 minutes<br>
+    <strong>Niveau :</strong> Initiation terminal / Linux (CM)<br>
+    <strong>Public :</strong> Élèves de primaire – sensibilisation à la logique et à l'informatique</p>
+
+<hr>
+
+<h2><span class="emoji">🎬</span> Scénario</h2>
+
+<p>L’an 2142. Une intelligence artificielle nommée <strong>E.V.A.</strong> (Entité Virtuelle d’Apprentissage) a été chargée de préserver les connaissances du monde.</p>
+
+<p>Elle lance aujourd’hui un défi à une nouvelle génération de jeunes chercheurs et ingénieurs :</p>
+
+<blockquote>
+    <p><em>"Je conserverai le <strong>Drapeau de la Connaissance</strong> jusqu’à ce qu’un esprit curieux et rigoureux parvienne à le retrouver en explorant les structures de mes dossiers et fichiers."</em></p>
+</blockquote>
+
+<p>Votre mission : retrouver ce <strong>drapeau</strong> caché dans un fichier texte, en explorant un environnement Linux.</p>
+
+<hr>
+
+<h2><span class="emoji">🧑‍🔬</span> Objectifs pédagogiques</h2>
+
+<ul>
+    <li>Découvrir les commandes de base du terminal :
+        <ul>
+            <li><code>cd</code> : se déplacer entre les dossiers</li>
+            <li><code>ls</code> : lister les fichiers d’un dossier</li>
+            <li><code>cat</code> : lire un fichier</li>
+            <li><code>grep</code> : chercher une information dans un fichier</li>
+        </ul>
+    </li>
+    <li>Encourager la logique, la patience, et la collaboration</li>
+    <li>Utiliser l’informatique comme support ludique et narratif</li>
+</ul>
+
+<hr>
+
+<h2><span class="emoji">⏱️</span> Déroulement</h2>
+
+<ul>
+    <li>Mise en place scénario : 5 minutes</li>
+    <li>Découverte des commandes : 10 minutes</li>
+    <li>Exploration des fichiers : 15 minutes</li>
+    <li>Résolution de l’énigme : 10 minutes</li>
+    <li>Conclusion : 5 minutes</li>
+</ul>
+
+<hr>
+
+<h2><span class="emoji">🧩</span> Contenu du jeu</h2>
+
+<ul>
+    <li>1 dossier <code>~/mission1/</code></li>
+    <li>4 fichiers d’<strong>indices</strong> contenant chacun un <strong>morceau de la commande finale</strong></li>
+    <li>1 fichier <code>histoire.txt</code> dans lequel est caché le <strong>flag final</strong> (indice)</li>
+</ul>
+
+<hr>
+
+<h2><span class="emoji">🏁</span> Commande finale à reconstituer</h2>
+
+<pre><code>
+cd ~/mission1 && cat histoire.txt | grep indice_final
+    </code></pre>
+
+</body>
+</html>
