@@ -1,6 +1,6 @@
 # 🧪 Le Drapeau de la Connaissance – Escape Game Bash (CM2)
 
-**Durée :** 15 minutes  
+**Durée :** 40 minutes  
 **Niveau :** Initiation terminal / Linux (CM2)  
 **Public :** Élèves de primaire – sensibilisation à la logique et à l'informatique
 
