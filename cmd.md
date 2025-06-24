@@ -1,5 +1,5 @@
 # 1. 📁 La commande `cd` sous Linux
-
+### Transporteur (🚀) : `cd`
 La commande `cd` (abréviation de *change directory*) est l'une des commandes de base du terminal Linux.  
 Elle permet de **se déplacer à travers les dossiers et sous-dossiers** de votre système de fichiers.
 
@@ -57,7 +57,7 @@ cd ~/mission1
 ````
 
 # 2. 📂 La commande `ls` sous Linux
-
+### Scanneur (🔍) : `ls`
 La commande `ls` (abréviation de *list*) est une commande de base du terminal Linux.  
 Elle permet d'**afficher le contenu d'un répertoire**, c'est-à-dire les fichiers 📄 et les dossiers 📁 qui s'y trouvent.
 
@@ -89,7 +89,7 @@ Vous utiliserez `ls` pour découvrir les fichiers 📄 et les dossiers 📁 qui 
 ---
 
 # 3. 📖 La commande `cat` sous Linux
-
+### Lecteur (📖) : `cat`
 La commande `cat` permet de **lire le contenu d'un fichier** et de l'afficher à l'écran.
 
 ---
@@ -117,7 +117,7 @@ cat message.txt
 `cat` vous permettra de lire les indices et les messages que vous trouverez pendant votre mission.
 
 # 4. 🔍 La commande `grep` sous Linux
-
+### Moteur de recherche (🔍) : `grep`
 La commande `grep` est un outil puissant qui permet de **rechercher des mots ou des motifs** à l'intérieur des fichiers. Elle affiche les lignes qui contiennent ce que vous cherchez.
 
 ---
@@ -144,7 +144,7 @@ grep "indice" enigme.txt
 ---
 
 ## 🔗 Utilisation de `grep` avec `cat` et le pipe `|`
-
+### Injecteur (🔗) : `|` (pipe)
 On peut combiner `grep` avec `cat` et le pipe `|` pour effectuer des recherches plus avancées :
 
 ```bash
