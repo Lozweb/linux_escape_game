@@ -172,3 +172,15 @@ Dans notre escape game, vous utiliserez `grep` pour :
 * Combiner des commandes pour extraire des informations importantes.
 
 
+# 5. ✂️ Copier/coller dans le terminal Linux
+
+Dans les applications graphiques (ex : éditeur de texte, navigateur) :
+- Copier : `Ctrl\+C`
+- Coller : `Ctrl\+V`
+
+Dans le terminal Linux :
+- Copier : `Ctrl\+Shift\+C`
+- Coller : `Ctrl\+Shift\+V`
+
+**Différence :**  
+Dans le terminal, `Ctrl\+C` interrompt une commande, donc il faut ajouter `Shift` pour copier/coller du texte.
