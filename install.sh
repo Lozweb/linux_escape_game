@@ -10,7 +10,7 @@ mkdir -p "$BASE/laboratoire/zone_alpha"
 mkdir -p "$BASE/laboratoire/zone_beta/notes"
 
 # Création des indices
-echo "Le premier mot est: cd" > "$BASE/start/indice_a.txt"
+echo "Le premier est: cd ~/mission1" > "$BASE/start/indice_a.txt"
 echo "Ensuite: cat" > "$BASE/archives/vieux_dossiers/indice_b.txt"
 echo "Puis: histoire.txt" > "$BASE/laboratoire/zone_alpha/indice_c.txt"
 echo "Enfin, utilise grep avec le mot-clé: indice_final" > "$BASE/laboratoire/zone_beta/notes/indice_d.txt"
